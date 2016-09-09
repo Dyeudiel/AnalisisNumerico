@@ -106,8 +106,8 @@ html, body{
 	text-align: Center;
 }
 
-#container #footer-marca{
-    position: absolute;
+#container #footer-content marca{
+    position: right;
     text-align: Right;
     margin: auto 0;
 }
