@@ -105,6 +105,12 @@ html, body{
 	font-size: 13px;
 	text-align: Center;
 }
+
+#container #footer-marca{
+    position: absolute;
+    text-align: Right;
+    margin: auto 0;
+}
 #container #footer-content h3 div{
 	font-size: 10px;
 }
